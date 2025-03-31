@@ -1,11 +1,11 @@
 requests
 cohere
 pandas
-matplotlib.pyplot
+matplotlib
 plotly.io
 webbrowser
 python-docx
-serpapi.google_search
+serpapi
 io
 smtplib
 email.message
