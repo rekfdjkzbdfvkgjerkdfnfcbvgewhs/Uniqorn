@@ -3,7 +3,7 @@ cohere
 pandas
 matplotlib
 plotly
-webbrowser
+selenium
 python-docx
 serpapi
 io
