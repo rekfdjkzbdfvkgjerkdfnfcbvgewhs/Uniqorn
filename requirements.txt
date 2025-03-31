@@ -2,7 +2,7 @@ requests
 cohere
 pandas
 matplotlib
-plotly.io
+plotly
 webbrowser
 python-docx
 serpapi
