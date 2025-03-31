@@ -6,7 +6,6 @@ plotly
 selenium
 python-docx
 serpapi
-io
 smtplib
 email.message
 bs4
