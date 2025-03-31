@@ -1,0 +1,13 @@
+requests
+cohere
+pandas
+matplotlib.pyplot
+plotly.io
+webbrowser
+python-docx
+serpapi.google_search
+io
+smtplib
+email.message
+bs4
+streamlit
